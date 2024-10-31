@@ -41,5 +41,6 @@ require("lazy").setup({
     { "hrsh7th/cmp-nvim-lsp" },  -- LSP source for nvim-cmp
     { "hrsh7th/cmp-buffer" },    -- Buffer completions
     { "hrsh7th/cmp-path" },      -- Path completions
-    { "hrsh7th/cmp-cmdline" }, 
+    { "hrsh7th/cmp-cmdline" },
+    {'joshdick/onedark.vim'},
 })
